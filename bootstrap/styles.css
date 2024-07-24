@@ -1,0 +1,7 @@
+.full-height {
+    height: 5vh; /* Viewport height */
+    display: flex;
+    align-items: center; /* Vertical centering */
+    justify-content: center; /* Horizontal centering */
+  }
+  
